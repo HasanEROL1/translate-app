@@ -27,5 +27,8 @@ Redux Toolkit ve React kullanılarak geliştirilmiş modern bir çeviri uygulama
  -Tailwind CSS
 
  tanıtım gifi
-![Demo Video](public\tranlate-app.gif)
+
+![tranlate-app](https://github.com/user-attachments/assets/6b0eac0c-7d63-431c-9bbf-7fd5e458b90a)
+
+
 # translate-app

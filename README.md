@@ -1,8 +1,8 @@
-🌍## Translate App
+## 🌍 Translate App
 
 Redux Toolkit ve React kullanılarak geliştirilmiş modern bir çeviri uygulamasıdır. Kullanıcılar kaynak ve hedef dili seçip metinlerini anında çevirebilir.
 
-🚀# Özellikler
+# 🚀 Özellikler
 
  -React & Redux Toolkit ile state yönetimi
 
@@ -16,7 +16,7 @@ Redux Toolkit ve React kullanılarak geliştirilmiş modern bir çeviri uygulama
 
  -Responsive tasarım
 
-🛠️ #Kullanılan Teknolojiler
+# 🛠️ Kullanılan Teknolojiler
 
  -React
 

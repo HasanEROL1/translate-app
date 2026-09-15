@@ -14,7 +14,6 @@ const LanguaceSelect = () => {
         label: item.name,
     })) || []
 
-    // console.log(languages)
 
 
     return (
@@ -30,7 +29,7 @@ const LanguaceSelect = () => {
             />
             <button
                 onClick={() => dispatch(swap())}
-                className='bg-zinc-700 py-2 px-6 hover:bg-zinc-800 transition rounded text-white'>Değiş</button>
+                className='bg-zinc-700 py-2 px-6 hover:bg-zinc-800 transition rounded text-white'>Değiştir</button>
 
             <ReactSelect options={formatted.filter((i) => i.value !== sourceLang.value)}
                 className="flex-1"

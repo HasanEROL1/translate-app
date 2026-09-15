@@ -12,7 +12,7 @@ const App = () => {
 
   useEffect(() => {
     dispatch(getLanguages())
-  }, [])
+  }, [dispatch])
   return (
     <div className="bg-zinc-900 min-h-screen text-white grid place-items-center">
       <div className=" w-[80vw] max-w-[1100px] flex flex-col justify-center py-5">

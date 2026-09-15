@@ -10,6 +10,8 @@ const initialState = {
         value: "en",
         label: "English",
     },
+   
+    
     textToTranslate: "",
     translatedText: "",
     isLoading: false,
